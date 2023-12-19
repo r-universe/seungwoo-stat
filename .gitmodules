@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "L1centrality"]
+	path = L1centrality
+	url = https://github.com/seungwoo-stat/l1centrality
 [submodule "rvMF"]
 	path = rvMF
 	url = https://github.com/seungwoo-stat/rvmf
