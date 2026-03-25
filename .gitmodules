@@ -5,6 +5,9 @@
 [submodule "L1centrality"]
 	path = L1centrality
 	url = https://github.com/seungwoo-stat/l1centrality
+[submodule "fkcentroids"]
+	path = fkcentroids
+	url = https://github.com/seungwoo-stat/fkcentroids
 [submodule "rvMF"]
 	path = rvMF
 	url = https://github.com/seungwoo-stat/rvmf
